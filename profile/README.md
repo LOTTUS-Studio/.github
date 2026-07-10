@@ -11,8 +11,8 @@ Um pequeno estúdio de jogos independente focado em criar experiências memoráv
 ## 🎮 Sobre
 
 A VLH Studios dedica-se ao desenvolvimento de jogos originais com forte ênfase em atmosfera, jogabilidade e identidade artística.
-
 Cada projeto é concebido com o objetivo de entregar algo único, seja um pequeno título experimental ou uma produção de maior porte.
+
 ---
 
 ## 🚀 Projetos Atuais
@@ -36,15 +36,9 @@ FMOD
 
 ---
 
-## Filosofia
-
-> "Ideias simples, experiências inesquecívies."
-
-Acreditamos que jogos memoráveis ​​não precisam de orçamentos gigantescos — eles precisam de paixão, atenção aos detalhes e uma visão artística clara.
-
----
-
 ## 📫 Contato
+
+[EM BREVE]
 
 ---
 

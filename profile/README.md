@@ -10,7 +10,7 @@ Um pequeno estúdio de jogos independente focado em criar experiências memoráv
 
 ## 🎮 Sobre
 
-A VLH Studios dedica-se ao desenvolvimento de jogos originais com forte ênfase em atmosfera, jogabilidade e identidade artística.
+A **L O T T U S** dedica-se ao desenvolvimento de jogos originais com forte ênfase em atmosfera, jogabilidade e identidade artística.
 Cada projeto é concebido com o objetivo de entregar algo único, seja um pequeno título experimental ou uma produção de maior porte.
 
 ---
@@ -22,6 +22,7 @@ Cada projeto é concebido com o objetivo de entregar algo único, seja um pequen
 | Nemesis | 🟡 Planejamento |
 | Journey of the Wanderer | 🟡 Planejamento |
 | Paku | 🔵 Pré-Desenvolvimento |
+| Quantumn: Lost Knights | 🟡 Planejamento |
 
 ---
 

@@ -30,12 +30,12 @@ Cada projeto é concebido com o objetivo de entregar algo único, seja um pequen
 
 ## 🛠️ Tecnologias
 
-Unity  
+Godot
+C
 C#  
 Git & GitHub  
 Blender  
 Aseprite  
-FMOD  
 
 ---
 
@@ -46,7 +46,7 @@ FMOD
 ---
 
 <p align="center">
-Feito com 💜 pela <strong>L O T T U S</strong>
+Feito com ❤ pela <strong>L O T T U S</strong>
 </p>
 
 </div>

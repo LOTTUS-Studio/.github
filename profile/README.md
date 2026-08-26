@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./Documento.png">
+
 # L O T T U S
 
 *"Fazendo mundos inesquecíveis."*

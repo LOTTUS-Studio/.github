@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./LottusRepoLogo2.png">
+<img src="./LottusRepoLogo2.png.png">
 
 # L O T T U S
 
